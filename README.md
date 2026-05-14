@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**saderyan98/saderyan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 MSc Computer Science graduate
+💻 Interested in full-stack development, AI, and cloud computing
+☁️ Currently studying for the Amazon Web Services Developer Associate certification
+🌱 Continuously learning through projects, certifications, and self-study
+🎯 Focused on building strong technical foundations and real-world development experience
+🛼 Outside of tech, I enjoy rollerskating and studying Spanish
+
+## ⚒️ Preferred Stack
+
+Frontend: React • JavaScript • HTML • CSS  
+Backend: Node.js • Express  
+Database: MongoDB • SQL  
+Cloud/Tools: AWS • Git • Postman • VS Code
+
+⭐ Thanks for visiting my profile — I’m always learning, building, and improving.
 -->
