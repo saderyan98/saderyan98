@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 ## 🚀 About Me
 
@@ -19,4 +18,4 @@ Database: MongoDB • SQL
 Cloud/Tools: AWS • Git • Postman • VS Code
 
 ⭐ Thanks for visiting my profile — I’m always learning, building, and improving.
--->
+
