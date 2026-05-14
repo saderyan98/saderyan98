@@ -17,5 +17,5 @@ Backend: Node.js • Express
 Database: MongoDB • SQL  
 Cloud/Tools: AWS • Git • Postman • VS Code
 
-⭐ Thanks for visiting my profile — I’m always learning, building, and improving.
+⭐ Thanks for visiting my profile — I’m always learning, building and improving.
 
